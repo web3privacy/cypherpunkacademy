@@ -23,6 +23,8 @@ Materials related with Cypherpunk Academy
 | Everybody Lies | @SethS_D | Ben West |
 | Extreme Privacy | @IntelTechniques | Ben West |
 | Surveillance capitalism | Shoshana Zuboff | Paul Dylan-Ennis |
+| Black code | Ronald J. Deibert | Mikerah |
+
 
 ## Decentralization, economics and other important ideas:
 
@@ -41,5 +43,11 @@ Materials related with Cypherpunk Academy
 | Blood in the Machine: The Origins of the Fight Against Big Tech | @bcmerchant | Ben West |
 | Bandits | Hobsbawm | Paul Dylan-Ennis |
 | The Country and the City | Williams | Paul Dylan-Ennis |
+| Walkaway | Cory Doctorow | KP |
+| Anarchy, State, and Utopia | Nozick | Shave the Whale |
+| Political Theology Four Chapters on the Concept of Sovereignty | Schmitt | Shave the Whale |
+| A Theory of Justice | Rawls | Shave the Whale |
+| After Virtue | McIntyre | Shave the Whale |
+| Propaganda: The Formation of Men's Attitudes | Jacques Ellul | Shave the Whale |
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

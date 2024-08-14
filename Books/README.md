@@ -18,6 +18,10 @@ Materials related with Cypherpunk Academy
 | The Code Book | @SLSingh | Ben West |
 | Coding Democracy | @maureenwebb | Ben West |
 | Future Histories | @_lizzyoshea | Ben West |
+| Zero Days | @RuthWareWriter | Ben West |
+| Rest is Resistance | Tricia Hersey | Ben West |
+| Everybody Lies | @SethS_D | Ben West |
+| Extreme Privacy | @IntelTechniques | Ben West |
 
 ## Decentralization, economics and other important ideas:
 
@@ -32,6 +36,7 @@ Materials related with Cypherpunk Academy
 | 7 Rules for Sustainable Communities | @pmcondon2 | Ben West |
 | Ecological literacy | @bioneers | Ben West |
 | Ecological economics | Herman Daley  | Ben West |
+| How Sex Changed the Internet | @samleecole | Ben West |
 
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

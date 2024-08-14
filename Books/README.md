@@ -7,7 +7,7 @@ Materials related with Cypherpunk Academy
 | ------------- | ------------- |------------- |
 | Crypto | @StevenLevy | Ben West |
 | Means of Control | @ByronTau | Ben West |
-| Tracers in the Dark | @a_greenberg | Ben West |
+| Tracers in the Dark | @a_greenberg | Ben West, Gavin Birch |
 | Sandworm | @a_greenberg | Ben West |
 | This Machine Kills Secrets | @a_greenberg | Ben West |
 | The internet Con, Choke point Capitalism and How to Destroy Surveillance Capitalism | @doctorow | Ben West |
@@ -30,6 +30,12 @@ Materials related with Cypherpunk Academy
 | Cypherpunk Ethics | Patrick D Anderson | Navio |
 | Hacker, hoaxer, whistleblower, spy | Gabriella Coleman | Ann Brody, Mykola |
 | Ways of being | James Brindle | Mykola |
+| Extreme Privacy: What It Takes to Disappear | Michael Bazzell | Jarrad Hope |
+| The art of invisibility | @kevinmitnick | Tim |
+| Intercept | Gordon Corera | Nick Almond |
+| Anti-tech revolution: why & how | Theodore John Kaczynski | Amir Taaki |
+| Plurality: the future of collaborative technology & democracy | Glen Weyl, Audrey Tang | orion |
+| What Is Enlightenment?: Google, Wikileaks, and the Reorganization of the World | Assange | Harry Halpin |
 
 ## Decentralization, economics and other important ideas:
 
@@ -58,5 +64,16 @@ Materials related with Cypherpunk Academy
 | Dark Matters | Simone Browne | Ann Brody |
 | The Power of Powerless | Vaclav Havel | PG |
 | Investigative Aesthetics | Fuller, Weizman | Mykola |
+| The open society and it's enemies | Popper | Nick Almond |
+| Nonzero: history, evolution & human cooperation | Robert Wright | Nick Almond |
+| The agony of power | Jean Baudrillard | Amir Taaki |
+| The sociology of freedom | Abdullah Ocalan | Amir Taaki |
+| Discipline and Punish: The Birth of the Prison | Foucault | Jaromil |
+| Security, Territory, Population | Foucault | Jaromil |
+| On The Government Of The Living (1979–1980) | Foucault | Jaromil |
+| Automatic Society | Stiegler | Harry Halpin |
+| all books | Bookchin | Harry Halpin |
+| all books | Ellul | Harry Halpin |
+| all books | Mumford | Harry Halpin |
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

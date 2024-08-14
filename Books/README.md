@@ -22,7 +22,7 @@ Materials related with Cypherpunk Academy
 | Rest is Resistance | Tricia Hersey | Ben West |
 | Everybody Lies | @SethS_D | Ben West |
 | Extreme Privacy | @IntelTechniques | Ben West |
-| Surveillance capitalism | Shoshana Zuboff | Paul Dylan-Ennis, Daniel Thomas, Marko |
+| Surveillance capitalism | Shoshana Zuboff | Paul Dylan-Ennis, Daniel Thomas, Marko, Michel Bauwens |
 | Black code | Ronald J. Deibert | Mikerah |
 | After the internet | Tiziana Terranova | PG |
 | Stuck on the platform | Geert Lovink | PG, Mykola |
@@ -36,6 +36,13 @@ Materials related with Cypherpunk Academy
 | Anti-tech revolution: why & how | Theodore John Kaczynski | Amir Taaki |
 | Plurality: the future of collaborative technology & democracy | Glen Weyl, Audrey Tang | orion |
 | What Is Enlightenment?: Google, Wikileaks, and the Reorganization of the World | Assange | Harry Halpin |
+| BLACK BOX SOCIETY:THE SECRET ALGORITHMS THAT CONTROL MONEY AND INFORMATION | FRANK PASQUALE | Michel Bauwens |
+| The Eye of the Master: A Social History of Artificial Intelligence | Matteo Pasquinelli | Michel Bauwens |
+| The Bleeding Edge. Why Technology Turns Toxic in an Unequal World | Bob Hughes | Michel Bauwens |
+| Recursivity and Contingency | Yuk Hui | Michel Bauwens |
+| The metric we. On the Quantification of the Social | Steffen Mau | Michel Bauwens |
+| Inhuman Power. Artificial Intelligence and the Future of Capitalism | Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff | Michel Bauwens |
+| Algorithms of Resistance: The Everyday Fight against Platform Power | Tiziano Bonini, Emiliano Treré | Michel Bauwens |
 
 ## Decentralization, economics and other important ideas:
 
@@ -75,5 +82,15 @@ Materials related with Cypherpunk Academy
 | all books | Bookchin | Harry Halpin |
 | all books | Ellul | Harry Halpin |
 | all books | Mumford | Harry Halpin |
+| Power and Progress | Daron Acemoglu and Simon Johnson | Michel Bauwens |
+| Technology, Modernity, and Democracy | Andrew Feenberg | Michel Bauwens |
+| The Question Concerning Technology in China |Yuk Hui | Michel Bauwens |
+| The Evolution of Media Studies | John David Ebert | Michel Bauwens |
+| The Technological Society |Jacques Ellul | Michel Bauwens |
+| Man and Technics | Oswald Spengler | Michel Bauwens |
+| Technics and Civilization | Lewis Mumford | Michel Bauwens |
+| Mechanization Takes Command. A Contribution to Anonymous History | Sigfried Giedion | Michel Bauwens |
+| Tools for Conviviality | Ivan Illich | Michel Bauwens |
+| The Alphabet vs. the Goddess |Leonard Schlain | Michel Bauwens |
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

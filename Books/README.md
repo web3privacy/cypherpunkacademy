@@ -22,6 +22,7 @@ Materials related with Cypherpunk Academy
 | Rest is Resistance | Tricia Hersey | Ben West |
 | Everybody Lies | @SethS_D | Ben West |
 | Extreme Privacy | @IntelTechniques | Ben West |
+| Surveillance capitalism | Shoshana Zuboff | Paul Dylan-Ennis |
 
 ## Decentralization, economics and other important ideas:
 
@@ -38,5 +39,7 @@ Materials related with Cypherpunk Academy
 | Ecological economics | Herman Daley  | Ben West |
 | How Sex Changed the Internet | @samleecole | Ben West |
 | Blood in the Machine: The Origins of the Fight Against Big Tech | @bcmerchant | Ben West |
+| Bandits | Hobsbawm | Paul Dylan-Ennis |
+| The Country and the City | Williams | Paul Dylan-Ennis |
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

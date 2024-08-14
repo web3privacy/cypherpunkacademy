@@ -22,9 +22,14 @@ Materials related with Cypherpunk Academy
 | Rest is Resistance | Tricia Hersey | Ben West |
 | Everybody Lies | @SethS_D | Ben West |
 | Extreme Privacy | @IntelTechniques | Ben West |
-| Surveillance capitalism | Shoshana Zuboff | Paul Dylan-Ennis |
+| Surveillance capitalism | Shoshana Zuboff | Paul Dylan-Ennis, Daniel Thomas, Marko |
 | Black code | Ronald J. Deibert | Mikerah |
-
+| After the internet | Tiziana Terranova | PG |
+| Stuck on the platform | Geert Lovink | PG, Mykola |
+| Cypherpunks | Julian Assange | Juan, PG, Amit Chaudhary |
+| Cypherpunk Ethics | Patrick D Anderson | Navio |
+| Hacker, hoaxer, whistleblower, spy | Gabriella Coleman | Ann Brody, Mykola |
+| Ways of being | James Brindle | Mykola |
 
 ## Decentralization, economics and other important ideas:
 
@@ -49,5 +54,9 @@ Materials related with Cypherpunk Academy
 | A Theory of Justice | Rawls | Shave the Whale |
 | After Virtue | McIntyre | Shave the Whale |
 | Propaganda: The Formation of Men's Attitudes | Jacques Ellul | Shave the Whale |
+| The Psychology of Totalitarianis | Mattias Desmet | Daniel Thomas |
+| Dark Matters | Simone Browne | Ann Brody |
+| The Power of Powerless | Vaclav Havel | PG |
+| Investigative Aesthetics | Fuller, Weizman | Mykola |
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

@@ -37,6 +37,6 @@ Materials related with Cypherpunk Academy
 | Ecological literacy | @bioneers | Ben West |
 | Ecological economics | Herman Daley  | Ben West |
 | How Sex Changed the Internet | @samleecole | Ben West |
-
+| Blood in the Machine: The Origins of the Fight Against Big Tech | @bcmerchant | Ben West |
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

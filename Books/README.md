@@ -43,6 +43,14 @@ Materials related with Cypherpunk Academy
 | The metric we. On the Quantification of the Social | Steffen Mau | Michel Bauwens |
 | Inhuman Power. Artificial Intelligence and the Future of Capitalism | Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff | Michel Bauwens |
 | Algorithms of Resistance: The Everyday Fight against Platform Power | Tiziano Bonini, Emiliano Treré | Michel Bauwens |
+| Why Privacy Matters | Neil Richards | Ignacio Cofone |
+| The Fight for Privacy | Danielle Citron | Ignacio Cofone |
+| Breached! | @DanielSolove & @hartzog | Ignacio Cofone |
+| Between Truth & Power | Julie Cohen | Ignacio Cofone |
+| Data Driven | Karen Levy | Ignacio Cofone |
+| Industry Unbound | Ari Ezra Waldman | Ignacio Cofone |
+| Privacy is Power | Carissa Véliz | Ignacio Cofone |
+| Unwired | Gaia Bernstein | Ignacio Cofone |
 
 ## Decentralization, economics and other important ideas:
 
@@ -91,6 +99,10 @@ Materials related with Cypherpunk Academy
 | Technics and Civilization | Lewis Mumford | Michel Bauwens |
 | Mechanization Takes Command. A Contribution to Anonymous History | Sigfried Giedion | Michel Bauwens |
 | Tools for Conviviality | Ivan Illich | Michel Bauwens |
-| The Alphabet vs. the Goddess |Leonard Schlain | Michel Bauwens |
+| The Alphabet vs. the Goddess | Leonard Schlain | Michel Bauwens |
+| What Must Be Done | Hans Hoppe | Recursor |
+| An Agorist Primer | Sam Konkin | Recursor |
+| Nations by Consent | Murray Rothbard | Recursor |
+| The Politics of Obedience | Etienne de La Boétie | Recursor |
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

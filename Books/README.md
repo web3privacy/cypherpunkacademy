@@ -104,5 +104,7 @@ Materials related with Cypherpunk Academy
 | An Agorist Primer | Sam Konkin | Recursor |
 | Nations by Consent | Murray Rothbard | Recursor |
 | The Politics of Obedience | Etienne de La Boétie | Recursor |
+| The Utopia of Rules | David Graeber | Scott Moore |
+| Deschooling Society | Ivan Illich | Scott Moore |
 
 [source](https://x.com/web3privacy/status/1823293746038911453)

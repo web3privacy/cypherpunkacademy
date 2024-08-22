@@ -26,4 +26,6 @@ Recognizing the necessity of education and practical development in this field, 
 - **Milestone 3 [Q4 2025]** - Project Accelerator and Post-Academy Support We launch an accelerator for final projects from the Academy learners and provide post-academy support and work introductions. Graduates will be able to publish their projects and ideas on our grant/bounty platform where they will find the opportunity to be funded or crowdfunded.
 - **Milestone 4 [Q1 2026]** - Original Content Production We will start producing our own content in collaboration with our network and key experts to further enhance our educational offerings.
 
+_The project was awarded a grant from [GCC](https://x.com/GCCofCommons)_
+
 

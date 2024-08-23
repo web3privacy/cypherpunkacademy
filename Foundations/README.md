@@ -1,5 +1,5 @@
-These foundational documents form the bedrock of the Cypherpunk movement. 
-Reading them will provide you with a deep understanding of the ideals and motivations that inspired activists to leverage technology in the defense of individual rights and freedoms.
+### These foundational documents form the bedrock of the Cypherpunk movement. 
+### Reading them will provide you with a deep understanding of the ideals and motivations that inspired activists to leverage technology in the defense of individual rights and freedoms.
 
 - [The Crypto Anarchist Manifesto](https://nakamotoinstitute.org/library/crypto-anarchist-manifesto/), Timothy May, 1988:  The Manifesto envisions a future where individuals can communicate and conduct transactions anonymously, outside the control of governments and centralized institutions. It highlights the potential for cryptography to fundamentally alter the nature of government regulation and societal structures.
 
@@ -12,7 +12,7 @@ Reading them will provide you with a deep understanding of the ideals and motiva
 - [Declaration of independence of cyberspace](https://www.eff.org/it/cyberspace-independence), John Perry Barlow, 1996: The co-founder of the Electronic Frontier Foundation argues that governments have no authority in the digital realm. He advocates for a free, self-governing cyberspace, independent of traditional legal constraints, and calls for a more humane and fair digital world beyond government control. 
 
 
-These more recent articles and talks assess how technological advancements over the past 30 to 40 years have shaped the Internet and society, evaluating their developments in relation to the original founding values.
+### These more recent articles and talks assess how technological advancements over the past 30 to 40 years have shaped the Internet and society, evaluating their developments in relation to the original founding values.
 
 - [A Political History of DAOs](https://www.fwb.help/editorial/cypherpunks-to-social-daos), Kelsie Nabben, 2022: The article explores the Cypherpunks Mailing List, a 1990s forum that influenced the development of cryptocurrencies and decentralized technologies. It highlights how their vision of cryptography as a tool for self-governance laid the foundation for today's blockchain and Web3 innovations. 
 

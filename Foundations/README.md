@@ -13,7 +13,9 @@
 
 ### These more recent articles and talks assess how technological advancements over the past 30 to 40 years have shaped the Internet and society, evaluating their developments in relation to the original founding values.
 
-- [A Political History of DAOs](https://www.fwb.help/editorial/cypherpunks-to-social-daos), Kelsie Nabben, 2022: The article explores the Cypherpunks Mailing List, a 1990s forum that influenced the development of cryptocurrencies and decentralized technologies. It highlights how their vision of cryptography as a tool for self-governance laid the foundation for today's blockchain and Web3 innovations. 
+- [A Political History of DAOs](https://www.fwb.help/editorial/cypherpunks-to-social-daos), Kelsie Nabben, 2022: The article explores the Cypherpunks Mailing List, a 1990s forum that influenced the development of cryptocurrencies and decentralized technologies. It highlights how their vision of cryptography as a tool for self-governance laid the foundation for today's blockchain and Web3 innovations.
+
+- [The Core of Crypto is Punks and Principles](https://mirror.xyz/yarak.eth/Mj6cCdR74K96AIrz3RTgANCB1L3W9jGvCwJYVO1wCfE), Piergiorgio Catti De Gasperi, 2023: The article examines how privacy-focused intellectuals, the Cypherpunks, pioneered the foundation for Web3. It highlights their concerns about centralization, privacy, and financial transparency, which led to innovations like Bitcoin and Ethereum. By understanding these ideological origins, the article underscores the significance of appreciating Web3’s potential to create a decentralized and fair digital future.
 
 - [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html), Vitalik Buterin, 2023: Ethereum co-founder calls for a return to the cypherpunk ideals of a decentralized and open crypto ecosystem. It critiques the shift towards financialization and highlights recent advancements like rollups and zero-knowledge proofs as opportunities to realign with these original values.  
 

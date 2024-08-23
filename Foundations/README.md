@@ -1,5 +1,4 @@
-### These foundational documents form the bedrock of the Cypherpunk movement. 
-### Reading them will provide you with a deep understanding of the ideals and motivations that inspired activists to leverage technology in the defense of individual rights and freedoms.
+### These foundational documents form the bedrock of the Cypherpunk movement. Reading them will provide you with a deep understanding of the ideals and motivations that inspired activists to leverage technology in the defense of individual rights and freedoms.
 
 - [The Crypto Anarchist Manifesto](https://nakamotoinstitute.org/library/crypto-anarchist-manifesto/), Timothy May, 1988:  The Manifesto envisions a future where individuals can communicate and conduct transactions anonymously, outside the control of governments and centralized institutions. It highlights the potential for cryptography to fundamentally alter the nature of government regulation and societal structures.
 

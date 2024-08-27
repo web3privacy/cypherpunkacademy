@@ -1,10 +1,10 @@
 # "Turn degens into Cypherpunk" course
 
 ## goals
-focus on knowledge creation (follow existing courses framework)
-focus on micro-learning (max 4 hours per module, 10-20 minutes per new knowledge)
-focus on the intro module instead of the whole course
-find out the right edge on how to turn Degens into Cypherpunks: should we focus on the positive side of the culture? Friendship aka community? Memes? etc
+- focus on knowledge creation (follow existing courses framework)
+- focus on micro-learning (max 4 hours per module, 10-20 minutes per new knowledge)
+- focus on the intro module instead of the whole course
+- find out the right edge on how to turn Degens into Cypherpunks: should we focus on the positive side of the culture? Friendship aka community? Memes? etc
 
 ## Contribute
 1. Analyze how Coursera structures learning courses - focus on courses-specific course-modules-learning formats-hours on completion.

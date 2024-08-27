@@ -99,4 +99,4 @@ _Mykola's take:_
 - Glossary terms from module 1 • 15 minutes
 
 3 quizzes • Total 61 minutes [draft]
-Test your knowledge: Introduction to cybersecurity • 8 minutes
+Test your knowledge: Introduction to Cypherpunk • 8 minutes

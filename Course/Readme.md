@@ -21,13 +21,14 @@
 No prior experience required
 
 **What you'll learn**
-Mykola's take:
+
+_Mykola's take:_
 
 - Understand the importance of free Internet that helps you to learn, connect with meaningful friends & find your purpose
 - Identify actors who blocks your progress to a meaningful & empowered life from Big Tech to attention-altering algorithms
 - Find out how to stay positive amid negative social media culture
 
-PG's take:
+_PG's take:_
 - Crypto's Historical and Ideological Foundations and the Crucial Importance of Privacy
 - The Philosophy of Cypherpunk: Ethics, Activism, and the Fight for Digital Rights
 - The value of a free and open Internet that enables you to connect with meaningful friends, and discover your purpose. 
@@ -37,13 +38,13 @@ PG's take:
 
 **Skills you'll gain**
 
-Mykola's take: we need to share here more "soft skills". For example:
+_Mykola's take_: we need to share here more "soft skills". For example:
 - Activism as a proactive wellbeing
 - Empowering internet
 - Actionable communities
 - Understand political and social issues and how to take action for yourself
 
-PG's take:
+_PG's take:_
 - Practical Privacy: Identify and master tools and techniques for safeguarding your digital footprint.
 - Collaboration over Competition: Learn how to create and participate in online communities that prioritize privacy, security, and mutual support.
 - Decentralized Empowerment: Understand and leverage decentralized technologies to reclaim personal control and power online.
@@ -52,11 +53,12 @@ PG's take:
 - Strategic Digital Minimalism: Develop the ability to consciously curate your digital interactions, reducing exposure to harmful algorithms and content.
 
 **Prepare for a meaningful work-life balance**
-Mykola's take:
+
+_Mykola's take:_
 - Find out what career you can make being a cypherpunk
 - Understand how you can match meaning, professional progress with a stable income
 
-PG's take:
+_PG's take:_
 - Get ready to build a work-life activism and champion freedom: yes, you can earn a living by doing good.
 - Discover the many career opportunities available as a cypherpunk
 - Learn how to align your passion for meaning and freedom with professional growth and a stable income
@@ -77,7 +79,8 @@ _Begin your journey into the cypherpunk lifestyle! You'll explore the cypherpunk
 - 2 discussion prompts
 
 **10 videos • Total 33 minutes**
-Mykola's take:
+
+_Mykola's take:_
 - Welcome to the Cypherpunk Academy • 9 minutes
 - Introduction to Cypherpunk culture • 4 minutes
 - Best readings about Cypherpunk culture •
@@ -88,7 +91,7 @@ Mykola's take:
 
 7 readings • Total 105 minutes
 
-Mykola's take:
+_Mykola's take:_
 
 - Cypherpunk personas article from W3PN x 20 minutes
 - Course 1 overview • 10 minutes

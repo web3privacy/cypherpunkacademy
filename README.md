@@ -19,6 +19,12 @@ Recognizing the necessity of education and practical development in this field, 
 2. **Develop sustainable privacy projects:** transform hackathon demos into enduring, viable products.
 3. **Redirect misallocated funds to value-aligned stakeholders:** connect conscientious devs with experienced mentors and grant programs.
 
+## Working materials
+
+1. [Course description](https://github.com/web3privacy/cypherpunkacademy/blob/main/Course/Readme.md)
+2. [Library](https://github.com/web3privacy/cypherpunkacademy/tree/main/Books)
+3. [Videos](https://github.com/web3privacy/cypherpunkacademy/tree/main/Videos)
+
 ### Execution Plan
 
 - **Milestone 1 [Q4 2024]** - Curated Learning Resources We gather the best existing materials and curate them to be accessible to the average crypto user but also to the total beginner. This empowers users to learn exactly what they are looking for or interested in and to implement best practices effectively.

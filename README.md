@@ -27,10 +27,10 @@ Recognizing the necessity of education and practical development in this field, 
 
 ### Execution Plan
 
-- **Milestone 1 [Q4 2024]** - Curated Learning Resources We gather the best existing materials and curate them to be accessible to the average crypto user but also to the total beginner. This empowers users to learn exactly what they are looking for or interested in and to implement best practices effectively.
-- **Milestone 2 [Q2 2025]** - Structured Learning Paths We create various learning paths and playlists, and run cohort-based programs similar to kernel. These programs allow participants to interact with each other, to receive guidance from mentors and experts, and to enhance their learning experience.
-- **Milestone 3 [Q4 2025]** - Project Accelerator and Post-Academy Support We launch an accelerator for final projects from the Academy learners and provide post-academy support and work introductions. Graduates will be able to publish their projects and ideas on our grant/bounty platform where they will find the opportunity to be funded or crowdfunded.
-- **Milestone 4 [Q1 2026]** - Original Content Production We will start producing our own content in collaboration with our network and key experts to further enhance our educational offerings.
+- **Milestone 1 [Q4 2024]** - **Curated Learning Resources**: We gather the best existing materials and curate them to be accessible to the average crypto user but also to the total beginner. This empowers users to learn exactly what they are looking for or interested in and to implement best practices effectively.
+- **Milestone 2 [Q2 2025]** - **Structured Learning Paths**: We create various learning paths and playlists, and run cohort-based programs similar to kernel. These programs allow participants to interact with each other, to receive guidance from mentors and experts, and to enhance their learning experience.
+- **Milestone 3 [Q4 2025]** - **Project Accelerator and Post-Academy Support**: We launch an accelerator for final projects from the Academy learners and provide post-academy support and work introductions. Graduates will be able to publish their projects and ideas on our grant/bounty platform where they will find the opportunity to be funded or crowdfunded.
+- **Milestone 4 [Q1 2026]** - **Original Content Production**: We will start producing our own content in collaboration with our network and key experts to further enhance our educational offerings.
 
 _The project was awarded a grant from [GCC](https://x.com/GCCofCommons)_
 

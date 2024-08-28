@@ -22,6 +22,10 @@ _Expert example_
 
 ![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/cypherpunk-stack.png)
 
+### Cypherpunk educational layers
+
+![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/cypherpunk-education-layers.png)
+
 ### Wellbeing layer
 
 **Mind**

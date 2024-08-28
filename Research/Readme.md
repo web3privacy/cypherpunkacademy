@@ -1,8 +1,26 @@
 # Research vault
 
+## ongoing research projects
+1. Cypherpunk personas.
+2. Cypherpunk Academy stack.
+
+## Cypherpunk personas
+Research aiming to map the differences between different types of people on the cypherpunk journey (from newbie to expert).
+
+![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/personas-comparison-chart.png)
+
+**Published** [article](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I)
+
+_Basic approach_ similar to [Tor personas](https://gitlab.torproject.org/tpo/ux/research/-/tree/master/personas)
+
+![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/sample-cypherpunk-profile.png)
+
+_Expert example_
+![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/sample-cypherpunk-profile.png)
+
 ## Cypherpunk academy stack
 
-![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/cypherpunk-stack.png)
+![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/expert-cypherpunk-profile.png)
 
 ### Wellbeing layer
 

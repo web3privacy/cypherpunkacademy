@@ -14,7 +14,7 @@ Recognizing the necessity of education and practical development in this field, 
 - **BUILD** - Cohort, Hackathons & Grants
 - **SCALE** - Fundraising, Advisory, & Partnerships
 
-### Aim
+### Goals
 1. **Create impactful privacy solutions:** ensure people avoid generating redundant or ineffective code.
 2. **Develop sustainable privacy projects:** transform hackathon demos into enduring, viable products.
 3. **Redirect misallocated funds to value-aligned stakeholders:** connect conscientious devs with experienced mentors and grant programs.

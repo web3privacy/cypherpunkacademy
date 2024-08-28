@@ -20,7 +20,7 @@ _Expert example_
 
 ## Cypherpunk academy stack
 
-![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/expert-cypherpunk-profile.png)
+![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/cypherpunk-stack.png)
 
 ### Wellbeing layer
 

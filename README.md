@@ -24,6 +24,7 @@ Recognizing the necessity of education and practical development in this field, 
 1. [Course description](https://github.com/web3privacy/cypherpunkacademy/blob/main/Course/Readme.md)
 2. [Library](https://github.com/web3privacy/cypherpunkacademy/tree/main/Books)
 3. [Videos](https://github.com/web3privacy/cypherpunkacademy/tree/main/Videos)
+4. [Research](https://github.com/web3privacy/cypherpunkacademy/tree/main/Research)
 
 ### Execution Plan
 

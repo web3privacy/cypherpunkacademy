@@ -26,7 +26,7 @@ _Expert example_
 
 ![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/cypherpunk-education-layers.png)
 
-### Wellbeing layer
+## Wellbeing layer
 
 **Mind**
 - Care
@@ -40,7 +40,7 @@ _Expert example_
 - "Touch the grass"
 - Martial arts
 
-### Worldview
+## Worldview
 
 **Economics**
 - General
@@ -72,7 +72,7 @@ _Expert example_
 - Logics
 - Philosophy
 
-**Activation & collaboration layer**
+## Activation & collaboration layer
 
 **Activism**
 - Direct action
@@ -92,7 +92,7 @@ _Expert example_
 - DAO
 - Empathy
 
-**Math + Tech stack layer**
+## Math + Tech stack layer
 
 **Math**
 - Abstract Algebra
@@ -108,5 +108,3 @@ _Expert example_
 - Internet studies
 - P2P
 - Programming
-
-

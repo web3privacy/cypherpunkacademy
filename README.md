@@ -1,4 +1,4 @@
-# Cypherpunk academy
+# Privacy academy
 
 Find [here](https://cryptpad.fr/pad/#/2/pad/view/5MuVtRLsPPyvOUy+eF8zg5AKgjXkNiMV+nYLwmpYNVU/) all Academy related material (code name: "turning degens into cypherpunks")
 

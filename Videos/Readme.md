@@ -1,4 +1,4 @@
-# Videos that will become parts of the course
+# Videos that will become included in the course
 
 ## basics
 

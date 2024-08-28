@@ -16,7 +16,7 @@ _Basic approach_ similar to [Tor personas](https://gitlab.torproject.org/tpo/ux/
 ![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/sample-cypherpunk-profile.png)
 
 _Expert example_
-![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/sample-cypherpunk-profile.png)
+![alt text](https://github.com/web3privacy/cypherpunkacademy/blob/main/Images/expert-cypherpunk-profile.png)
 
 ## Cypherpunk academy stack
 

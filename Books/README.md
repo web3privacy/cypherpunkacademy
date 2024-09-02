@@ -5,21 +5,6 @@ Materials related with Cypherpunk Academy
 
 | Name  | Author | Recommended by |
 | ------------- | ------------- |------------- |
-| Crypto | @StevenLevy | Ben West |
-| Means of Control | @ByronTau | Ben West |
-| Tracers in the Dark | @a_greenberg | Ben West, Gavin Birch |
-| Sandworm | @a_greenberg | Ben West |
-| This Machine Kills Secrets | @a_greenberg | Ben West |
-| The internet Con, Choke point Capitalism and How to Destroy Surveillance Capitalism | @doctorow | Ben West |
-| Your Face Belongs to Us | @kashhill | Ben West |
-| Pegasus | @laurentrichard0 | Ben West |
-| Fancy Bear Goes Fishing | @scottjshapiro | Ben West |
-| The Woman Who Smashed Codes | @jfagone | Ben West |
-| The Code Book | @SLSingh | Ben West |
-| Coding Democracy | @maureenwebb | Ben West |
-| Future Histories | @_lizzyoshea | Ben West |
-| Zero Days | @RuthWareWriter | Ben West |
-| Rest is Resistance | Tricia Hersey | Ben West |
 | Everybody Lies | @SethS_D | Ben West |
 | Extreme Privacy | @IntelTechniques | Ben West |
 | Surveillance capitalism | Shoshana Zuboff | Paul Dylan-Ennis, Daniel Thomas, Marko, Michel Bauwens |
@@ -51,6 +36,21 @@ Materials related with Cypherpunk Academy
 | Industry Unbound | Ari Ezra Waldman | Ignacio Cofone |
 | Privacy is Power | Carissa Véliz | Ignacio Cofone |
 | Unwired | Gaia Bernstein | Ignacio Cofone |
+| Crypto | @StevenLevy | Ben West |
+| Means of Control | @ByronTau | Ben West |
+| Tracers in the Dark | @a_greenberg | Ben West, Gavin Birch |
+| Sandworm | @a_greenberg | Ben West |
+| This Machine Kills Secrets | @a_greenberg | Ben West |
+| The internet Con, Choke point Capitalism and How to Destroy Surveillance Capitalism | @doctorow | Ben West |
+| Your Face Belongs to Us | @kashhill | Ben West |
+| Pegasus | @laurentrichard0 | Ben West |
+| Fancy Bear Goes Fishing | @scottjshapiro | Ben West |
+| The Woman Who Smashed Codes | @jfagone | Ben West |
+| The Code Book | @SLSingh | Ben West |
+| Coding Democracy | @maureenwebb | Ben West |
+| Future Histories | @_lizzyoshea | Ben West |
+| Zero Days | @RuthWareWriter | Ben West |
+| Rest is Resistance | Tricia Hersey | Ben West |
 
 ## Decentralization, economics and other important ideas:
 

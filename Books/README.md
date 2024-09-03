@@ -6,17 +6,17 @@ Materials related with Cypherpunk Academy
 | Name  | Author | Recommended by |
 | ------------- | ------------- |------------- |
 | Everybody Lies | @SethS_D | Ben West |
-| Extreme Privacy | @IntelTechniques | Ben West |
 | Surveillance capitalism | Shoshana Zuboff | Paul Dylan-Ennis, Daniel Thomas, Marko, Michel Bauwens |
 | Black code | Ronald J. Deibert | Mikerah |
 | After the internet | Tiziana Terranova | PG |
+| Algorithms of Resistance: The Everyday Fight against Platform Power | Tiziano Bonini, Emiliano Treré | Michel Bauwens |
 | Stuck on the platform | Geert Lovink | PG, Mykola |
 | Cypherpunks | Julian Assange | Juan, PG, Amit Chaudhary |
+| Tracers in the Dark | @a_greenberg | Ben West, Gavin Birch |
 | Cypherpunk Ethics | Patrick D Anderson | Navio |
 | Hacker, hoaxer, whistleblower, spy | Gabriella Coleman | Ann Brody, Mykola |
 | Ways of being | James Brindle | Mykola |
 | Extreme Privacy: What It Takes to Disappear | Michael Bazzell | Jarrad Hope |
-| The art of invisibility | @kevinmitnick | Tim |
 | Intercept | Gordon Corera | Nick Almond |
 | Anti-tech revolution: why & how | Theodore John Kaczynski | Amir Taaki |
 | Plurality: the future of collaborative technology & democracy | Glen Weyl, Audrey Tang | orion |
@@ -24,10 +24,11 @@ Materials related with Cypherpunk Academy
 | BLACK BOX SOCIETY:THE SECRET ALGORITHMS THAT CONTROL MONEY AND INFORMATION | FRANK PASQUALE | Michel Bauwens |
 | The Eye of the Master: A Social History of Artificial Intelligence | Matteo Pasquinelli | Michel Bauwens |
 | The Bleeding Edge. Why Technology Turns Toxic in an Unequal World | Bob Hughes | Michel Bauwens |
+| Extreme Privacy | @IntelTechniques | Ben West |
 | Recursivity and Contingency | Yuk Hui | Michel Bauwens |
+| The art of invisibility | @kevinmitnick | Tim |
 | The metric we. On the Quantification of the Social | Steffen Mau | Michel Bauwens |
 | Inhuman Power. Artificial Intelligence and the Future of Capitalism | Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff | Michel Bauwens |
-| Algorithms of Resistance: The Everyday Fight against Platform Power | Tiziano Bonini, Emiliano Treré | Michel Bauwens |
 | Why Privacy Matters | Neil Richards | Ignacio Cofone |
 | The Fight for Privacy | Danielle Citron | Ignacio Cofone |
 | Breached! | @DanielSolove & @hartzog | Ignacio Cofone |
@@ -38,7 +39,6 @@ Materials related with Cypherpunk Academy
 | Unwired | Gaia Bernstein | Ignacio Cofone |
 | Crypto | @StevenLevy | Ben West |
 | Means of Control | @ByronTau | Ben West |
-| Tracers in the Dark | @a_greenberg | Ben West, Gavin Birch |
 | Sandworm | @a_greenberg | Ben West |
 | This Machine Kills Secrets | @a_greenberg | Ben West |
 | The internet Con, Choke point Capitalism and How to Destroy Surveillance Capitalism | @doctorow | Ben West |
